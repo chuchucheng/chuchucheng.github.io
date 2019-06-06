@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuchu Cheng"
+title                    : "Site Title"
 title_separator          : "-"
 name                     : "Chuchu Cheng"
-description              : "A data scientist and statistian."
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,19 +106,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuchu Cheng"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A data scientist and statistian."
-  location         : "Bay Area"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: cccbnu@gmail.com
-
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #     url: "https://chuchucheng.github.io/"
+      # url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/chuchucheng/"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -294,11 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-#_pages
-- scope:
-    path: ""
-    type: Pages
-    values:
-      layout:single
-      author_profile: true
