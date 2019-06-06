@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Chuchu Cheng
+bio: A data scientist and statistian who travels the world.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -51,18 +51,18 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: cccbnu@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    chuchucheng:
+        name: Chuchu Cheng
+        bio: A data scientist and statistian who travels the world.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+    chuchucheng:
+        name: Chuchu Cheng
+        bio: A data scientist and statistian who travels the world.
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
