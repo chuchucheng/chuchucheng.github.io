@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ccc.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,13 +58,13 @@ authors:
         name: Chuchu Cheng
         bio: A data scientist and statistian who travels the world.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/ccc.jpg
         twitter: johndoe
     chuchucheng:
         name: Chuchu Cheng
         bio: A data scientist and statistian who travels the world.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/ccc.jpg
         twitter: jamesfoster
 
 # do you want a larger site? change the option below
