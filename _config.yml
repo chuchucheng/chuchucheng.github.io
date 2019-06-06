@@ -82,7 +82,7 @@ author:
   bio              : "Data Science & Statistics"
   location         : "Bay Area, CA"
   employer         : "Boston College"
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
   email            : "cccbnu@gmail.com"
   uri              :
   bitbucket        :
