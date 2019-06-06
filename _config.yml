@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/ccc.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -48,23 +48,23 @@ github: chuchucheng
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: cccbnu@gmail.com
+email: profilebnu@gmail.com
 
 authors:
     chuchucheng:
         name: Chuchu Cheng
         bio: A data scientist and statistian who travels the world.
         external-image: false
-        picture: assets/images/ccc.jpg
+        picture: assets/images/profile.jpg
         twitter: johndoe
     chuchucheng:
         name: Chuchu Cheng
         bio: A data scientist and statistian who travels the world.
         external-image: false
-        picture: assets/images/ccc.jpg
+        picture: assets/images/profile.jpg
         twitter: jamesfoster
 
 # do you want a larger site? change the option below
