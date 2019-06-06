@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Chuchu Cheng"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
-url                      : http://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chuchu Cheng"
+description              : &description "Data scientist, Statistian, Psychologist"
+url                      : http://chuchucheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rctatman/rctatman.github.io"
+repository               : "chuchucheng/chuchucheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
+  name             : "Chuchu Cheng"
   avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
-  employer         : "Kaggle"
+  bio              : "Data Science & Statistics"
+  location         : "Bay Area, CA"
+  employer         : "Boston College"
   googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "rachael.tatman@gmail.com"
+  email            : "cccbnu@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rctatman"
+  github           : "chuchucheng"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  linkedin         : "chuchucheng"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitch           : "https://www.twitch.tv/rctatman"
-  twitter          : "rctatman"
+  twitch           : #"https://www.twitch.tv/rctatman"
+  twitter          : #"rctatman"
   vine             :
   weibo            :
   xing             :
