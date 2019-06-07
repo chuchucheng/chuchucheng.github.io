@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Chuchu Cheng"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Data Scientist"
   location         : "Bay Area, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=fCqTxH0AAAAJ&hl=en"
+  email            : "cccbnu@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Chuchu_Cheng"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "chuchucheng"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
