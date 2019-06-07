@@ -85,11 +85,8 @@ author:
   bio              : "Data Scientist"
   location         : "Bay Area, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=fCqTxH0AAAAJ&hl=en"
-  email            : "cccbnu@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Chuchu_Cheng"
-  uri              :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,13 +100,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chuchucheng"
-  orcid            : "http://orcid.org/yourorcidurl"
+  email            : "cccbnu@gmail.com"
+
+  googlescholar    : "https://scholar.google.com/citations?user=fCqTxH0AAAAJ&hl=en"
+  researchgate     :  "https://www.researchgate.net/profile/Chuchu_Cheng"
+  uri              :
+  orcid            : "http://orcid.org/0000-0002-1578-7497"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
