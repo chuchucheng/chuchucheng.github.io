@@ -14,7 +14,7 @@ I’m a PhD student in Quantitative Psychology and Statistics at Boston College.
 
 Work experience
 ------
-* Applied Scientist at Amazon (May 2020 - Present)
+* Applied Scientist Intern at Amazon (May 2020 - Aug 2020)
 
 * Data Science Fellow at Insight (Jan 2020 - Present)
   * Developed a Flask app SmartShopper on AWS EC2 to predict popularity of cosmetics discount sales on dealmoon.com and provide purchase suggestions.

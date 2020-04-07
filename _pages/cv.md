@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, Beijing Normal University, 2012
-* M.S. in Psychology, Brandeis University, 2014
 * Ph.D in Quantitative Psychology and Statistics, Boston College, 2020 (expected)
+* M.S. in Psychology, Brandeis University, 2014
+* B.S. in Psychology, Beijing Normal University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Applied Scientist Intern at Amazon (May 2020 - Aug 2020)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Science Fellow at Insight (Jan 2020 - Present)
+  * Developed a Flask app SmartShopper on AWS EC2 to predict popularity of cosmetics discount sales on dealmoon.com and provide purchase suggestions.
+  * Scraped 4k+ web pages with Selenium and extracted features using regex, bigrams, tf-idf with re, nltk.
+  * Built regression tree, random forest, gradient boosting, xgboost models with sklearn, xgboost in Python and optimized RMSE by 30%.
 
 Skills
 ======
