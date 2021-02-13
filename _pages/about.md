@@ -9,8 +9,6 @@ redirect_from:
 
 ---
 
-I’m a PhD student in Quantitative Psychology and Statistics at Boston College. My personal research is on bootstrap and SEM.
-
 
 Work experience
 ------
