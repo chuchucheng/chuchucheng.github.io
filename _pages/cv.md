@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D in Quantitative Psychology and Statistics, Boston College, 2020 (expected)
 * M.S. in Psychology, Brandeis University, 2014
@@ -52,4 +52,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
