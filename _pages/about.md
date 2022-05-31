@@ -24,6 +24,6 @@ Work experience
 
 Education
 ------
-* Ph.D in Quantitative Psychology and Statistics, Boston College, 2020 (expected)
-* M.S. in Psychology, Brandeis University, 2014
-* B.S. in Psychology, Beijing Normal University, 2012
+* Ph.D in Quantitative Psychology and Statistics, Boston College
+* M.S. in Psychology, Brandeis University
+* B.S. in Psychology, Beijing Normal University
