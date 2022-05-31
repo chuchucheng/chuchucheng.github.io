@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chuchu Cheng"
 title_separator          : "-"
 name                     : &name "Chuchu Cheng"
-description              : &description "Data Scientist"
+description              : &description "Applied Scientist"
 url                      : https://chuchucheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chuchucheng/chuchucheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuchu Cheng"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist"
+  bio              : "Applied Scientist"
   location         : "Bay Area, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
